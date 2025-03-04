@@ -22,3 +22,9 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Br10&show_icons=true)
 </div>
 
+
+          
+
+
+
+

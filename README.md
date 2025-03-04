@@ -12,8 +12,8 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 - 💻 Atualmente trabalhando na área de suporte de T.I
 - 📚 E gosto dessa área de Dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/lucas-xavier-n)
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-ff69b4)](https://www.instagram.com/lucas_xaviers_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-xavier-n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_xaviers_)
 
   
 <div>

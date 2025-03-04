@@ -5,6 +5,7 @@ Olá! Me chamo Lucas Xavier
 - 📚 E gosto dessa área de Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/lucas-xavier-n)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-ff69b4)](https://www.instagram.com/lucas_xavieers_)
 
   
 <div>

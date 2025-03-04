@@ -1,5 +1,13 @@
 Olá! Me chamo Lucas Xavier
 
+Curioso por natureza, sempre em busca do “porquê” das coisas.
+
+Desde criança, sempre fui um sonhador ingênuo, fascinado pelo desconhecido e determinado a crescer na minha área. Minha jornada no suporte técnico me ensinou muito mais do que apenas resolver problemas; me ensinou a importância de ajudar e ensinar os outros.
+
+Com uma mente aberta para novos aprendizados e sem medo de enfrentar o novo, acredito que cada desafio é uma oportunidade de crescimento. Seja com um simples clique ou uma solução complexa que leva dias ou meses para ser desenvolvida, meu objetivo é sempre ouvir um “Você me ajudou muito” no final.
+
+Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender a cada dia. Adoro quando alguém me pergunta “Como você faz para ser assim?” ou “Onde posso te dar um feedback?”. Essas perguntas mostram que estou no caminho certo, ajudando e inspirando os outros.
+
 - 📚 Hoje estudo Engenharia Da Computação 
 - 💻 Atualmente trabalhando na área de suporte de T.I
 - 📚 E gosto dessa área de Dev

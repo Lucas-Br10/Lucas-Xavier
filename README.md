@@ -1,4 +1,4 @@
-Olá! Me chamo Lucas Xavier
+#Olá! Me chamo Lucas Xavier
 
 Curioso por natureza, sempre em busca do “porquê” das coisas.
 
@@ -20,10 +20,10 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 <a href="https://github.com/Lucas-Br10/Lucas-Xavier">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Br10&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Br10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-
-
-          
 
 
 

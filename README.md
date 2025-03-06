@@ -1,4 +1,4 @@
-#Olá! Me chamo Lucas Xavier
+Olá! Me chamo Lucas Xavier
 
 Curioso por natureza, sempre em busca do “porquê” das coisas.
 

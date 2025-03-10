@@ -1,4 +1,4 @@
-Olá! Me chamo Lucas Xavier
+## Olá! Me chamo Lucas Xavier
 
 Curioso por natureza, sempre em busca do “porquê” das coisas.
 
@@ -15,8 +15,16 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-xavier-n)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_xaviers_)
 
-  
+
+
+## Tecnologias
+- Linguagens: Python
+- Ferramentas: VS Code
+
+ 
 <div>
+  
+## Stats
 <a href="https://github.com/Lucas-Br10/Lucas-Xavier">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Br10&show_icons=true)
@@ -25,11 +33,7 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 
 </div>
 
-<div>
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lucas-Br10)
-  
-</div>
 
 
 

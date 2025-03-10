@@ -23,11 +23,13 @@ Para mim, não se trata apenas de resolver problemas, mas de ensinar e aprender 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Br10&layout=compact)](https://github.com/Lucas-Br10/github-readme-stats)
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lucas-Br10)
-
 </div>
 
+<div>
 
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lucas-Br10)
+  
+</div>
 
 
 
